@@ -2,6 +2,6 @@
 More to come here
 
 - CV
-- linkedin
+- [linkedIn](https://www.linkedin.com/in/aniruddha-marathe-phd/)
 - Github
 - email
