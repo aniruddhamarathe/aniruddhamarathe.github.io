@@ -5,4 +5,10 @@ Hello! My name is Aniruddha Marathe, and I am a quantitative ecologist. I am exi
 # map
 <embed type="text/html" src="/img/atree_map.html" height="650" width="850">
 
+# time series plot
+<embed type="text/html" src="/img/gunnison_plot.html" height="650" width="850">
+
+# NDVI map 
+<embed type="text/html" src="/img/ndvi_diff_plot.html" height="650" width="850">
+
 
